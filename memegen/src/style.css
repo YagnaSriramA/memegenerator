@@ -29,3 +29,37 @@ body{
     font-size: 18px;
     padding-left:600px;
 }
+form{
+    margin:30px 30px;
+}
+
+.typeboxes{
+    display:flex;
+    justify-content: center;
+}
+
+.typebox--1, .typebox--2{
+    margin:20px;
+    border-radius:9px;
+    height:40px;
+    width:400px;
+    text-indent:5px;
+    
+}
+
+.submit-btn{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.submit-btn input{
+    border-radius:9px;
+    height:50px;
+    width:78.5%;
+    font-size: 18px;
+    background-image: linear-gradient(to right, rgb(84, 59, 136), rgb(123, 70, 228));
+    color:white;
+    border:none;
+    cursor:pointer;
+}
