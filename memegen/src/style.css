@@ -1,0 +1,31 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+
+.navbar{
+    display:flex;
+    height:80px;
+    background-image: linear-gradient(to right, rgb(47, 14, 112), rgb(90, 37, 198));
+    color:white;
+    align-items: center;
+    padding-left:20px;
+}
+
+.navbar img {
+    height:50px;   
+}
+
+.memegen{
+    font-size: 24px;
+    padding-left:20px;
+}
+
+.react{
+    font-size: 18px;
+    padding-left:600px;
+}
